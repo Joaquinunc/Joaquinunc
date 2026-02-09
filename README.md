@@ -19,7 +19,7 @@
 
 ## My profiles on Social Media
 <p>
-  <a href="www.linkedin.com/in/joaquín-ferreyra-a991b5174">
+  <a href="https://www.linkedin.com/in/joaqu%C3%ADn-ferreyra-a991b5174/">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
   <a href="https://www.instagram.com/joacoferreyra.ch/">
